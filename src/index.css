@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Prata', serif;
+  background-color: black;
+  color: white;
+  
+}
+li {
+  list-style-type: none;
+}
