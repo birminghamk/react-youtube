@@ -5,9 +5,11 @@
 Live link: https://birminghamk.github.io/react-youtube/
 
 ## How it Works
+
   - A React version of Youtube. Users can type in a search term in the search field, and five videos from the youtube-api-search will be displayed to the right, the first video listed as the playable version (larger video detail). Users can click one of five images on the right, and the selected image will become the main video featured(larger video detail). Using lodash, the search query will be run every 700 ms, increasing efficiency and loading time. 
 
 ## Technologies
+
   -React
   -CSS/HTML
   -ES6
@@ -23,4 +25,5 @@ Live link: https://birminghamk.github.io/react-youtube/
       - reactstrap
 
 ## Author
+
   - Kate Birmingham
