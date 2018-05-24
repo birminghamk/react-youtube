@@ -10,15 +10,17 @@ Live link: https://birminghamk.github.io/react-youtube/
 
 ## Technologies
 
-  - React
+  - React.js
   - CSS/HTML
   - ES6
+  - JSX
   - Google Fonts
   - Reactstrap
   - Template Literals
   - Node.js
   - NPM packages:
       - react-dom
+      - react
       - gh-pages
       - lodash
       - youtube-api-search
